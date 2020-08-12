@@ -2,6 +2,7 @@
 Customer Segmentation analysis using K-means algorithm, data exploration and visualization. Used to understand unsupervised learning and optimize the best result using the "Elbow Method".
 
 ![Image1](images/elbow.PNG)
+![Image2](images/clusters.PNG)
 
 Resources
 -
